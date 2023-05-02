@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is for practice of react",
   "private": true,
-  "proxy": "https://www.swiggy.com/dapi",
+  "proxy": "https://www.swiggy.com/",
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
@@ -33,6 +33,5 @@
   },
   "browserslist": [
     "last 2 versions"
-  ],
-  "proxy": "https://www.swiggy.com/dapi"
+  ]
 }
